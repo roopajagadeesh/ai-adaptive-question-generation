@@ -1,0 +1,58 @@
+[
+    {
+        "student": "Roopa ",
+        "subject": "Python",
+        "topic": "variable",
+        "score": 1,
+        "total": 5,
+        "percentage": 20
+    },
+    {
+        "student": "Roopa ",
+        "subject": "Python",
+        "topic": "variable",
+        "score": 4,
+        "total": 6,
+        "percentage": 67
+    },
+    {
+        "student": "Roopa ",
+        "subject": "Python",
+        "topic": "",
+        "score": 1,
+        "total": 5,
+        "percentage": 20
+    },
+    {
+        "student": "vedha ",
+        "subject": "Python",
+        "topic": "java",
+        "score": 2,
+        "total": 5,
+        "percentage": 40
+    },
+    {
+        "student": "Roopa ",
+        "subject": "Python",
+        "topic": "python",
+        "score": 1,
+        "total": 5,
+        "percentage": 20
+    },
+    {
+        "student": "nayana ",
+        "subject": "Python",
+        "topic": "java",
+        "score": 1,
+        "total": 5,
+        "percentage": 20
+    },
+    {
+        "student": "nayana",
+        "subject": "Python",
+        "topic": "agentic ai",
+        "score": 1,
+        "total": 5,
+        "percentage": 20
+    }
+]
